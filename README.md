@@ -1,7 +1,7 @@
 <h2 align="center">Welcome 🥳</h2>
 
 <p  align="center">
-Linux Admin @ Dublin City University
+Linux Admin @ Dublin City University <br>
 Interested in Lifelogging, Data Analytics, Infrastructure Automation
 </p>
 
