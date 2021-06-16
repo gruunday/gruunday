@@ -9,7 +9,7 @@ Interested in Lifelogging, Data Analytics, Infrastructure Automation
   <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=gruunday" alt="visitor count"/></br> -->
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=gruunday&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gruunday">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gruunday&exclude_repo=OODesignProject" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gruunday&exclude_repo=OODesignProjectdcu_rag_website" />
   </a>
 </p>
 
