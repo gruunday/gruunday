@@ -1,8 +1,13 @@
 <h2 align="center">Welcome 🥳</h2>
 
 <p  align="center">
-Linux Admin <br>
-Interested in Lifelogging, Data Analytics, Infrastructure Automation
+Senior System Engineer <br>
+Interested in Security, Infrastructure Automation, and OPS tooling
+
+- 🔭 I’m currently working on: OPS Automation
+- 🌱 I’m currently learning: Go/Rust
+- 💬 Ask me about: Ansible automation or custom ansible moudles
+- 📫 Reach me at: gruunday@gmail.com 
 </p>
 
  <!--
