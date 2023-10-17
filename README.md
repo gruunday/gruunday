@@ -6,8 +6,7 @@ Interested in Security, Infrastructure Automation, and OPS tooling
 
 - 🔭 I’m currently working on: OPS Automation
 - 🌱 I’m currently learning: Go/Rust
-- 💬 Ask me about: Ansible automation or custom ansible moudles
-- 📫 Reach me at: gruunday@gmail.com 
+- 💬 Ask me about: Ansible automation or custom Ansible modules
 </p>
 
  <!--
